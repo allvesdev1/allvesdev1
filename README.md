@@ -1,12 +1,6 @@
 <p align="center">I ❤️ the technology. <br><br> Hi, I'm Piettro Allves, better known as Allves, and I'm a Bradesco Foundation student dedicated to front-end development, with a deep passion for computers and programming. Recently, I've been expanding my knowledge to include back-end development in my skillset. In addition to my interest in technology, I'm a nerdy geek with a passion for anime, manga, and comics, as well as the Marvel and DC universes. This combination of technical skills and cultural interests reflects my quest to excel in the field of technology, while maintaining my connection with pop and digital culture.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+
 
 
 
